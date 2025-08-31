@@ -278,4 +278,6 @@ Copy the ARN of IAM Role 'IAM-Role-etl-project-redshift', paste it IAM_ROLE fiel
    
 ![5](https://user-images.githubusercontent.com/63555029/228979117-7e85568a-9ff8-443c-8e2f-930d5de922fd.png)
 
-## That's it. This is the end of this project series. I really appreciate you for reading this series.
+## That's it. This is the end of this project series. Thank You! 
+
+## By Nithin Suresh
