@@ -1,4 +1,4 @@
- ## Hello everyone. Welcome my Data Engineering (ETL) project. We will talk about ETL job using Apache Spark with AWS Glue.
+ ## Hello everyone. Welcome to my Data Engineering (ETL) project. We will talk about ETL (Extraction, Transfomration and Loading) job using Apache Spark with AWS Glue and AWS RedShift.
 
 ## What we gonna do step by step
 1. [Create IAM Role for whole project](#create-ıam-role-for-whole-project)
